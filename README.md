@@ -17,4 +17,6 @@
 
 -->
 
+[![My Skills](https://skillicons.dev/icons?i=ts,js,flutter,dart,react,redux,wasm,rust)](https://ursb.me)
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=airingursb&show_icons=true)
