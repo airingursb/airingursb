@@ -5,7 +5,7 @@
 🐻 A Web developer🎯 from China.
 - 🌱 I’m currently working on Flutter, React, iOS and Rust.
 - 📫 How to reach me: You may follow me on [Zhihu](https://www.zhihu.com/people/airing) or my blog([ursb.me](https://ursb.me))
-- 📢 Personal Telegram Channel: [t.me/airingchannel](t.me/airingchannel)
+- 📢 Personal Telegram Channel: [t.me/airingchannel](https://t.me/airingchannel)
 - 📝 [Resume](https://www.notion.so/airing/be45c0dc6fac408b9495d9e503ae8c90)
   
 <!--
