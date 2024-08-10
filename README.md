@@ -6,7 +6,7 @@
 - 🌱 I’m currently working on C++, iOS, Cocos, React and Flutter.
 - 📫 How to reach me: You may follow me on my blog([ursb.me](https://ursb.me)) or [Zhihu](https://www.zhihu.com/people/airing)
 - 📢 Personal Telegram Channel: [t.me/airingchannel](https://t.me/airingchannel)
-- 📝 [Resume](https://airingursb.github.io/resume/2024.html)(Updated on 2024/06)
+- 📝 [Resume](https://airingursb.github.io/resume/2024.html) (Updated 2024/06)
   
 <!--
 **Languages:**  
