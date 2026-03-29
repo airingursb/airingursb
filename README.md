@@ -1,25 +1,33 @@
-<h2> Hi there, I'm Airing <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<table width="100%"><tr><td><h2>Airing</h2></td><td align="right"><a href="https://ursb.me">Blog</a> &nbsp;·&nbsp; <a href="https://t.me/airingchannel">Telegram</a> &nbsp;·&nbsp; <a href="https://www.zhihu.com/people/airing">Zhihu</a></td></tr></table>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
-🐻 A software developer🎯 in Singapore
-- 🌱 I’m currently working on C++, iOS, Cocos, React and Flutter.
-- 📫 How to reach me: You may follow me on my blog([ursb.me](https://ursb.me)) or [Zhihu](https://www.zhihu.com/people/airing)
-- 📢 Personal Telegram Channel: [t.me/airingchannel](https://t.me/airingchannel)
-- 📝 [Resume](https://airingursb.github.io/resume/2024.html) (Updated 2024/06)
-  
-<!--
-**Languages:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-
--->
+Building browsers & renderers. 2019 WWDC Scholarship Winner.
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,ts,js,flutter,dart,react,redux,cmake,swift)](https://ursb.me)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=airingursb&show_icons=true)
+---
 
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/airingursb)
+**MoFlow** &nbsp;—&nbsp; AI therapeutic writing for iOS. Write freely, reflect deeply.
+
+<a href="https://moflowapp.com">moflowapp.com</a> &nbsp;·&nbsp; <a href="https://apps.apple.com/app/id6737146258">App Store</a>
+
+---
+
+**Latest Posts**
+
+<!-- POSTS_START -->
+- [2025，全新旅途](https://blog.ursb.me/posts/summary-2025/) <sub>2026.02</sub>
+- [月刊（第33期）：推理阶梯](https://blog.ursb.me/posts/weekly-33/) <sub>2025.11</sub>
+- [月刊（第32期）：中大校友会的采访](https://blog.ursb.me/posts/weekly-32/) <sub>2025.08</sub>
+<!-- POSTS_END -->
+
+**Channel** &nbsp;[@airingchannel](https://t.me/airingchannel)
+
+<!-- CHANNEL_START -->
+- [Swift 6.3 正式发布：开发者现可使用 Swift 编写原生 Android...](https://t.me/airingchannel/1256) <sub>03.25</sub>
+- [Vibe 了个 Claude Code 101](https://t.me/airingchannel/1255) <sub>03.23</sub>
+- [看过挽救计划](https://t.me/airingchannel/1254) <sub>03.22</sub>
+<!-- CHANNEL_END -->
+
+---
+
+<div align="right"><sub><a href="https://ursb.me">ursb.me</a></sub></div>
