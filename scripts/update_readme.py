@@ -97,7 +97,7 @@ def fetch_blog_posts(count=3):
                     m2 = re.search(r'(\d{1,2})\s+(\w{3})\s+(\d{4})', raw)
                     if m2:
                         import calendar
-                        months = {v: f'{i+1:02d}' for i, v in enumerate(calendar.month_abbr) if v}
+                        months = {v: f'{i:02d}' for i, v in enumerate(calendar.month_abbr) if v}
                         day, mon, year = m2.group(1), m2.group(2), m2.group(3)
                         mm = months.get(mon, '01')
                         date_str = f'{year}.{mm}'
@@ -125,8 +125,8 @@ def fetch_channel_messages(count=3):
         )
 
         matches = msg_pattern.findall(html)
-        # Take the last `count` messages
-        matches = matches[-count:]
+        # Take the last `count` messages, newest first
+        matches = matches[-count:][::-1]
 
         messages = []
         for post_id, raw_text, datetime_str in matches:
@@ -140,6 +140,8 @@ def fetch_channel_messages(count=3):
 
             # Cut at URLs
             text = re.split(r'https?://', text)[0].strip()
+            # Remove trailing punctuation artifacts
+            text = text.rstrip(' -—:·')
 
             # Truncate to ~45 chars
             if len(text) > 45:
