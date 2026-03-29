@@ -15,17 +15,17 @@ Building browsers & renderers. 2019 WWDC Scholarship Winner.
 **Latest Posts**
 
 <!-- POSTS_START -->
-- [2025，全新旅途](https://blog.ursb.me/posts/summary-2025/) <sub>2026.02</sub>
-- [月刊（第33期）：推理阶梯](https://blog.ursb.me/posts/weekly-33/) <sub>2025.11</sub>
-- [月刊（第32期）：中大校友会的采访](https://blog.ursb.me/posts/weekly-32/) <sub>2025.08</sub>
+- [2025，全新旅途](https://blog.ursb.me/posts/summary-2025/) <sub>2026.03</sub>
+- [月刊（第33期）：推理阶梯](https://blog.ursb.me/posts/weekly-33/) <sub>2025.12</sub>
+- [月刊（第32期）：中大校友会的采访](https://blog.ursb.me/posts/weekly-32/) <sub>2025.09</sub>
 <!-- POSTS_END -->
 
 **Channel** &nbsp;[@airingchannel](https://t.me/airingchannel)
 
 <!-- CHANNEL_START -->
-- [Swift 6.3 正式发布：开发者现可使用 Swift 编写原生 Android...](https://t.me/airingchannel/1256) <sub>03.25</sub>
+- [看过挽救计划 -](https://t.me/airingchannel/1254) <sub>03.22</sub>
 - [Vibe 了个 Claude Code 101](https://t.me/airingchannel/1255) <sub>03.23</sub>
-- [看过挽救计划](https://t.me/airingchannel/1254) <sub>03.22</sub>
+- [Swift 6.3 正式发布：开发者现可使用 Swift 编写原生 Android 程序S...](https://t.me/airingchannel/1256) <sub>03.25</sub>
 <!-- CHANNEL_END -->
 
 ---
