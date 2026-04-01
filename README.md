@@ -15,17 +15,16 @@ AI therapeutic writing for iOS. Combines CBT, DBT & ACT with AI-guided prompts, 
 ### Latest Posts
 
 <!-- POSTS_START -->
-- [2025，全新旅途](https://blog.ursb.me/posts/summary-2025/) <sub>2026.02</sub>
-- [月刊（第33期）：推理阶梯](https://blog.ursb.me/posts/weekly-33/) <sub>2025.11</sub>
-- [月刊（第32期）：中大校友会的采访](https://blog.ursb.me/posts/weekly-32/) <sub>2025.08</sub>
+- [2015-2016 随笔选集](https://ursb.me/posts/2015-2016-essays/) <sub>2026.03</sub>
+- [2025，全新旅途](https://ursb.me/posts/summary-2025/) <sub>2026.02</sub>
+- [月刊（第33期）：推理阶梯](https://ursb.me/posts/weekly-33/) <sub>2025.11</sub>
 <!-- POSTS_END -->
 
 ### Channel [@airingchannel](https://t.me/airingchannel)
 
 <!-- CHANNEL_START -->
-- [Swift 6.3 正式发布：开发者现可使用 Swift 编写原生 Android 程序S...](https://t.me/airingchannel/1256) <sub>03.25</sub>
-- [Vibe 了个 Claude Code 101](https://t.me/airingchannel/1255) <sub>03.23</sub>
-- [看过挽救计划](https://t.me/airingchannel/1254) <sub>03.22</sub>
+- [Airing Channel pinned «](https://t.me/airingchannel/1268) <sub>03.31</sub>
+- [让 Claude 读了下我十年前的博客，它给出了一些评价 🥹](https://t.me/airingchannel/1265) <sub>03.30</sub>
 <!-- CHANNEL_END -->
 
 <div align="right"><a href="https://ursb.me">→ ursb.me</a></div>
