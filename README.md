@@ -20,6 +20,14 @@ AI therapeutic writing for iOS. Combines CBT, DBT & ACT with AI-guided prompts, 
 - [月刊（第33期）：推理阶梯](https://ursb.me/posts/weekly-33/) <sub>2025.11</sub>
 <!-- POSTS_END -->
 
+### 📓 Latest Notes
+
+<!-- NOTES_START -->
+- [Claude 101：从 AI 第一视角理解 Claude Code 的交互式教程](https://ursb.me/notes/claude-101-intro/) <sub>2026.04</sub>
+- [Claude Code Memory 系统详解](https://ursb.me/notes/claude-code-memory-system/) <sub>2026.04</sub>
+- [可视化解读 OpenHarness：用 3% 代码复刻 Claude Code 的 Agent 架构](https://ursb.me/notes/openharness-visual-guide/) <sub>2026.04</sub>
+<!-- NOTES_END -->
+
 ### Channel [@airingchannel](https://t.me/airingchannel)
 
 <!-- CHANNEL_START -->

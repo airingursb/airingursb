@@ -12,6 +12,8 @@ README_PATH = os.path.join(os.path.dirname(__file__), '..', 'README.md')
 
 POSTS_START = '<!-- POSTS_START -->'
 POSTS_END = '<!-- POSTS_END -->'
+NOTES_START = '<!-- NOTES_START -->'
+NOTES_END = '<!-- NOTES_END -->'
 CHANNEL_START = '<!-- CHANNEL_START -->'
 CHANNEL_END = '<!-- CHANNEL_END -->'
 
@@ -111,6 +113,39 @@ def fetch_blog_posts(count=3):
         return []
 
 
+def fetch_notes(count=3):
+    """Fetch latest notes from notes RSS feed."""
+    print('Fetching notes from RSS...')
+    try:
+        xml_text = fetch_url('https://ursb.me/notes/feed.xml')
+        root = ET.fromstring(xml_text)
+        notes = []
+        for item in root.findall('.//item')[:count]:
+            title_el = item.find('title')
+            link_el = item.find('link')
+            pub_el = item.find('pubDate')
+            title = (title_el.text or '').strip() if title_el is not None else ''
+            url = (link_el.text or '').strip() if link_el is not None else ''
+            date_str = ''
+            if pub_el is not None and pub_el.text:
+                raw = pub_el.text.strip()
+                m = re.match(r'(\d{4})-(\d{2})', raw)
+                if m:
+                    date_str = f'{m.group(1)}.{m.group(2)}'
+                else:
+                    m2 = re.search(r'(\d{1,2})\s+(\w{3})\s+(\d{4})', raw)
+                    if m2:
+                        import calendar
+                        months = {v: f'{i:02d}' for i, v in enumerate(calendar.month_abbr) if v}
+                        date_str = f'{m2.group(3)}.{months.get(m2.group(2), "01")}'
+            notes.append((title, url, date_str))
+        print(f'  Found {len(notes)} notes.')
+        return notes
+    except Exception as e:
+        print(f'  ERROR fetching notes: {e}')
+        return []
+
+
 def fetch_channel_messages(count=3):
     """Fetch latest messages from Telegram channel static preview."""
     print('Fetching Telegram channel messages...')
@@ -200,6 +235,16 @@ def main():
         updated = True
     else:
         print('  Skipping POSTS section update.')
+
+    # Update notes
+    notes = fetch_notes(count=3)
+    if notes:
+        new_notes = format_items(notes)
+        content = replace_section(content, NOTES_START, NOTES_END, new_notes)
+        print('  Updated NOTES section.')
+        updated = True
+    else:
+        print('  Skipping NOTES section update.')
 
     # Update channel messages
     messages = fetch_channel_messages(count=3)
