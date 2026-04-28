@@ -15,24 +15,25 @@ AI therapeutic writing for iOS. Combines CBT, DBT & ACT with AI-guided prompts, 
 ### Latest Posts
 
 <!-- POSTS_START -->
-- [2015-2016 随笔选集](https://ursb.me/posts/2015-2016-essays/) <sub>2026.03</sub>
-- [2025，全新旅途](https://ursb.me/posts/summary-2025/) <sub>2026.02</sub>
-- [月刊（第33期）：推理阶梯](https://ursb.me/posts/weekly-33/) <sub>2025.11</sub>
+- [Weekly #34: The Joy of Making Things](https://ursb.me/en/posts/weekly-34/) <sub>2026.04</sub>
+- [2025: A Brand New Journey](https://ursb.me/en/posts/summary-2025/) <sub>2026.02</sub>
+- [Weekly #33: The Ladder of Inference](https://ursb.me/en/posts/weekly-33/) <sub>2025.11</sub>
 <!-- POSTS_END -->
 
 ### 📓 Latest Notes
 
 <!-- NOTES_START -->
-- [Claude 101：从 AI 第一视角理解 Claude Code 的交互式教程](https://ursb.me/notes/claude-101-intro/) <sub>2026.04</sub>
-- [Claude Code Memory 系统详解](https://ursb.me/notes/claude-code-memory-system/) <sub>2026.04</sub>
-- [可视化解读 OpenHarness：用 3% 代码复刻 Claude Code 的 Agent 架构](https://ursb.me/notes/openharness-visual-guide/) <sub>2026.04</sub>
+- [Measuring «Smoothness» — From FrameTime to Stutter](https://ursb.me/immersive/jank-stutter/) <sub>2026.04</sub>
+- [How to Build a High-Performance Mini-Game Container — The Evolution & Tech Behind Helio](https://ursb.me/immersive/helio/) <sub>2026.04</sub>
+- [Claude 101: An Interactive Tour of Claude Code from the AI's Point of View](https://ursb.me/en/notes/claude-101-intro/) <sub>2026.04</sub>
 <!-- NOTES_END -->
 
 ### Channel [@airingchannel](https://t.me/airingchannel)
 
 <!-- CHANNEL_START -->
-- [Airing Channel pinned «](https://t.me/airingchannel/1268) <sub>03.31</sub>
-- [让 Claude 读了下我十年前的博客，它给出了一些评价 🥹](https://t.me/airingchannel/1265) <sub>03.30</sub>
+- [独立开发的财务 App 上架啦 🎉MoneyWise —— 把记账做成「私人银行账本」的样...](https://t.me/airingchannel/1297) <sub>04.28</sub>
+- [和 Claude 合作写了篇文章，还挺有意思的](https://t.me/airingchannel/1296) <sub>04.27</sub>
+- [#Tools #Design #AI #OpenSource👷 Kami：一个开源的 AI...](https://t.me/airingchannel/1295) <sub>04.23</sub>
 <!-- CHANNEL_END -->
 
 <div align="right"><a href="https://ursb.me">→ ursb.me</a></div>

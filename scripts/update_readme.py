@@ -37,7 +37,7 @@ def fetch_blog_posts(count=3):
     """Fetch latest blog posts from RSS/Atom feed."""
     print('Fetching blog posts from RSS...')
     try:
-        xml_text = fetch_url('https://blog.ursb.me/feed.xml')
+        xml_text = fetch_url('https://ursb.me/en/blog/feed.xml')
         root = ET.fromstring(xml_text)
 
         ns = {'atom': 'http://www.w3.org/2005/Atom'}
@@ -117,7 +117,7 @@ def fetch_notes(count=3):
     """Fetch latest notes from notes RSS feed."""
     print('Fetching notes from RSS...')
     try:
-        xml_text = fetch_url('https://ursb.me/notes/feed.xml')
+        xml_text = fetch_url('https://ursb.me/en/notes/feed.xml')
         root = ET.fromstring(xml_text)
         notes = []
         for item in root.findall('.//item')[:count]:
