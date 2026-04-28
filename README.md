@@ -6,6 +6,12 @@ Building browsers & renderers. 2019 WWDC Scholarship Winner.
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,ts,js,flutter,dart,react,redux,cmake,swift)](https://ursb.me)
 
+### MoneyWise
+
+Offline-first personal finance for iPhone. Multi-currency tracking with local encryption, optional cloud sync, AI-powered insights — no ads, no tracking.
+
+[![Website](https://img.shields.io/badge/moneywise.airingdeng.com-black?style=flat-square)](https://moneywise.airingdeng.com) [![App Store](https://img.shields.io/badge/App_Store-black?style=flat-square&logo=apple)](https://apps.apple.com/app/id6762085775)
+
 ### MoFlow
 
 AI therapeutic writing for iOS. Combines CBT, DBT & ACT with AI-guided prompts, emotion tracking, and personalized reports.
