@@ -26,20 +26,22 @@ AI therapeutic writing for iOS. Combines CBT, DBT & ACT with AI-guided prompts, 
 - [Weekly #33: The Ladder of Inference](https://ursb.me/en/posts/weekly-33/) <sub>2025.11</sub>
 <!-- POSTS_END -->
 
-### 📓 Latest Notes
+### Latest Notes
 
 <!-- NOTES_START -->
-- [Measuring «Smoothness» — From FrameTime to Stutter](https://ursb.me/immersive/jank-stutter/) <sub>2026.04</sub>
-- [How to Build a High-Performance Mini-Game Container — The Evolution & Tech Behind Helio](https://ursb.me/immersive/helio/) <sub>2026.04</sub>
+- [Measuring «Smoothness» — From FrameTime to Stutter](https://ursb.me/immersive/jank-stutter/) ![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg) <sub>2026.04</sub>
+- [How to Build a High-Performance Mini-Game Container — The Evolution & Tech Behind Helio](https://ursb.me/immersive/helio/) ![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg) <sub>2026.04</sub>
 - [Claude 101: An Interactive Tour of Claude Code from the AI's Point of View](https://ursb.me/en/notes/claude-101-intro/) <sub>2026.04</sub>
 <!-- NOTES_END -->
 
-### Channel [@airingchannel](https://t.me/airingchannel)
+### Channel
+
+[![Telegram](https://img.shields.io/badge/Subscribe_on_Telegram-@airingchannel-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/airingchannel)
 
 <!-- CHANNEL_START -->
-- [独立开发的财务 App 上架啦 🎉MoneyWise —— 把记账做成「私人银行账本」的样...](https://t.me/airingchannel/1297) <sub>04.28</sub>
-- [和 Claude 合作写了篇文章，还挺有意思的](https://t.me/airingchannel/1296) <sub>04.27</sub>
-- [#Tools #Design #AI #OpenSource👷 Kami：一个开源的 AI...](https://t.me/airingchannel/1295) <sub>04.23</sub>
+- [给博客做了个相册页面：](https://t.me/airingchannel/1304) <sub>05.03</sub>
+- [独立开发的财务 App 上架啦 🎉 MoneyWise —— 把记账做成「私人银行账本」的...](https://t.me/airingchannel/1303) <sub>05.01</sub>
+- [我的眼镜更新了下固件，支持了 Claude Code。于是体验了下在眼镜上 Vibe Co...](https://t.me/airingchannel/1301) <sub>04.29</sub>
 <!-- CHANNEL_END -->
 
 <div align="right"><a href="https://ursb.me">→ ursb.me</a></div>

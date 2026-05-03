@@ -4,6 +4,8 @@
 import re
 import os
 import xml.etree.ElementTree as ET
+from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
 from urllib.request import urlopen, Request
 from urllib.error import URLError
 from html.parser import HTMLParser
@@ -16,6 +18,34 @@ NOTES_START = '<!-- NOTES_START -->'
 NOTES_END = '<!-- NOTES_END -->'
 CHANNEL_START = '<!-- CHANNEL_START -->'
 CHANNEL_END = '<!-- CHANNEL_END -->'
+
+NEW_BADGE = '![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg)'
+NEW_THRESHOLD = timedelta(days=14)
+
+
+def parse_date(raw):
+    """Parse an ISO 8601 or RFC 2822 datetime string. Returns aware datetime or None."""
+    if not raw:
+        return None
+    raw = raw.strip()
+    try:
+        if raw.endswith('Z'):
+            return datetime.fromisoformat(raw[:-1]).replace(tzinfo=timezone.utc)
+        return datetime.fromisoformat(raw)
+    except ValueError:
+        pass
+    try:
+        return parsedate_to_datetime(raw)
+    except (TypeError, ValueError):
+        return None
+
+
+def is_recent(dt):
+    if dt is None:
+        return False
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return (datetime.now(timezone.utc) - dt) <= NEW_THRESHOLD
 
 
 def fetch_url(url, headers=None):
@@ -88,8 +118,10 @@ def fetch_blog_posts(count=3):
                 or entry.find('pubDate')
             )
             date_str = ''
+            raw_dt = None
             if date_el is not None and date_el.text:
                 raw = date_el.text.strip()
+                raw_dt = parse_date(raw)
                 # ISO date: YYYY-MM-DD...
                 m = re.match(r'(\d{4})-(\d{2})', raw)
                 if m:
@@ -104,7 +136,7 @@ def fetch_blog_posts(count=3):
                         mm = months.get(mon, '01')
                         date_str = f'{year}.{mm}'
 
-            posts.append((title, url, date_str))
+            posts.append((title, url, date_str, raw_dt))
 
         print(f'  Found {len(posts)} posts.')
         return posts
@@ -127,8 +159,10 @@ def fetch_notes(count=3):
             title = (title_el.text or '').strip() if title_el is not None else ''
             url = (link_el.text or '').strip() if link_el is not None else ''
             date_str = ''
+            raw_dt = None
             if pub_el is not None and pub_el.text:
                 raw = pub_el.text.strip()
+                raw_dt = parse_date(raw)
                 m = re.match(r'(\d{4})-(\d{2})', raw)
                 if m:
                     date_str = f'{m.group(1)}.{m.group(2)}'
@@ -138,7 +172,7 @@ def fetch_notes(count=3):
                         import calendar
                         months = {v: f'{i:02d}' for i, v in enumerate(calendar.month_abbr) if v}
                         date_str = f'{m2.group(3)}.{months.get(m2.group(2), "01")}'
-            notes.append((title, url, date_str))
+            notes.append((title, url, date_str, raw_dt))
         print(f'  Found {len(notes)} notes.')
         return notes
     except Exception as e:
@@ -191,8 +225,10 @@ def fetch_channel_messages(count=3):
             if m:
                 date_str = f'{m.group(1)}.{m.group(2)}'
 
+            raw_dt = parse_date(datetime_str)
+
             if text:
-                messages.append((text, link, date_str))
+                messages.append((text, link, date_str, raw_dt))
 
         print(f'  Found {len(messages)} messages.')
         return messages
@@ -201,11 +237,12 @@ def fetch_channel_messages(count=3):
         return []
 
 
-def format_items(items):
-    """Format list of (title, url, date) into markdown lines."""
+def format_items(items, mark_new=False):
+    """Format list of (title, url, date, raw_dt) into markdown lines."""
     lines = []
-    for title, url, date in items:
-        lines.append(f'- [{title}]({url}) <sub>{date}</sub>')
+    for title, url, date, raw_dt in items:
+        new_tag = f' {NEW_BADGE}' if mark_new and is_recent(raw_dt) else ''
+        lines.append(f'- [{title}]({url}){new_tag} <sub>{date}</sub>')
     return '\n'.join(lines)
 
 
@@ -229,7 +266,7 @@ def main():
     # Update blog posts
     posts = fetch_blog_posts(count=3)
     if posts:
-        new_posts = format_items(posts)
+        new_posts = format_items(posts, mark_new=True)
         content = replace_section(content, POSTS_START, POSTS_END, new_posts)
         print('  Updated POSTS section.')
         updated = True
@@ -239,7 +276,7 @@ def main():
     # Update notes
     notes = fetch_notes(count=3)
     if notes:
-        new_notes = format_items(notes)
+        new_notes = format_items(notes, mark_new=True)
         content = replace_section(content, NOTES_START, NOTES_END, new_notes)
         print('  Updated NOTES section.')
         updated = True
