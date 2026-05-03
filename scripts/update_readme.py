@@ -19,7 +19,7 @@ NOTES_END = '<!-- NOTES_END -->'
 CHANNEL_START = '<!-- CHANNEL_START -->'
 CHANNEL_END = '<!-- CHANNEL_END -->'
 
-NEW_BADGE = '![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg)'
+NEW_BADGE = '![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg?v=2)'
 NEW_THRESHOLD = timedelta(days=14)
 
 
@@ -242,7 +242,7 @@ def format_items(items, mark_new=False):
     lines = []
     for title, url, date, raw_dt in items:
         new_tag = f' {NEW_BADGE}' if mark_new and is_recent(raw_dt) else ''
-        lines.append(f'- [{title}]({url}){new_tag} <sub>{date}</sub>')
+        lines.append(f'- [{title}]({url}) <sub>{date}</sub>{new_tag}')
     return '\n'.join(lines)
 
 
