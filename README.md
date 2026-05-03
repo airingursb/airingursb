@@ -29,8 +29,8 @@ AI therapeutic writing for iOS. Combines CBT, DBT & ACT with AI-guided prompts, 
 ### Latest Notes
 
 <!-- NOTES_START -->
-- [Measuring «Smoothness» — From FrameTime to Stutter](https://ursb.me/immersive/jank-stutter/) <sub>2026.04</sub> ![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg?v=2)
-- [How to Build a High-Performance Mini-Game Container — The Evolution & Tech Behind Helio](https://ursb.me/immersive/helio/) <sub>2026.04</sub> ![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg?v=2)
+- [Measuring «Smoothness» — From FrameTime to Stutter](https://ursb.me/immersive/jank-stutter/) <sub>2026.04</sub> ![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg?v=3)
+- [How to Build a High-Performance Mini-Game Container — The Evolution & Tech Behind Helio](https://ursb.me/immersive/helio/) <sub>2026.04</sub> ![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg?v=3)
 - [Claude 101: An Interactive Tour of Claude Code from the AI's Point of View](https://ursb.me/en/notes/claude-101-intro/) <sub>2026.04</sub>
 <!-- NOTES_END -->
 

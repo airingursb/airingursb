@@ -19,7 +19,7 @@ NOTES_END = '<!-- NOTES_END -->'
 CHANNEL_START = '<!-- CHANNEL_START -->'
 CHANNEL_END = '<!-- CHANNEL_END -->'
 
-NEW_BADGE = '![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg?v=2)'
+NEW_BADGE = '![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg?v=3)'
 NEW_THRESHOLD = timedelta(days=14)
 
 
