@@ -29,9 +29,9 @@ AI therapeutic writing for iOS. Combines CBT, DBT & ACT with AI-guided prompts, 
 ### Latest Notes
 
 <!-- NOTES_START -->
-- [Sediment of Pixels — A Codex of 50+ Image Formats](https://ursb.me/immersive/image-formats/) <sub>2026.05</sub> ![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg?v=3)
-- [Bytecode to Pixels — A Field Map of Chromium's Rendering Pipeline](https://ursb.me/immersive/chromium-renderer/) <sub>2026.05</sub> ![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg?v=3)
-- [JavaScript at the Limit — V8 Internals and One Hot Function's Road to 10×](https://ursb.me/immersive/v8-fast-js/) <sub>2026.05</sub> ![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg?v=3)
+- [Many Ways to Die — A Family Map of 11 Garbage Collectors](https://ursb.me/immersive/gc/) <sub>2026.05</sub> ![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg?v=3)
+- [The Life of One JS Line — A QuickJS Source-Level Walkthrough](https://ursb.me/immersive/quickjs/) <sub>2026.05</sub> ![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg?v=3)
+- [From Rust to SIMD — The Life of WebAssembly](https://ursb.me/immersive/webassembly/) <sub>2026.05</sub> ![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg?v=3)
 <!-- NOTES_END -->
 
 ### Channel
@@ -39,9 +39,7 @@ AI therapeutic writing for iOS. Combines CBT, DBT & ACT with AI-guided prompts, 
 [![Telegram](https://img.shields.io/badge/Subscribe_on_Telegram-@airingchannel-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/airingchannel)
 
 <!-- CHANNEL_START -->
-- [【高一的笨豆，做出的视频让我惊呆了…-哔哩哔哩】](https://t.me/airingchannel/1313) <sub>05.10</sub>
-- [原来 Apple 设备是能收到政府警报的，刚还以为被轰炸了😱](https://t.me/airingchannel/1311) <sub>05.10</sub>
-- [... AI 画的 3D 版妙蛙种子和杰尼龟](https://t.me/airingchannel/1309) <sub>05.10</sub>
+- [看过杀木地](https://t.me/airingchannel/1317) <sub>05.16</sub>
 <!-- CHANNEL_END -->
 
 <div align="right"><a href="https://ursb.me">→ ursb.me</a></div>
