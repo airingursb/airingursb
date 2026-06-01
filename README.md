@@ -39,7 +39,8 @@ AI therapeutic writing for iOS. Combines CBT, DBT & ACT with AI-guided prompts, 
 [![Telegram](https://img.shields.io/badge/Subscribe_on_Telegram-@airingchannel-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/airingchannel)
 
 <!-- CHANNEL_START -->
-- [在尝试用 CC 写游戏，发现 CC 不擅长做资产，走了很多弯路。既然 Claude Cod...](https://t.me/airingchannel/1322) <sub>05.23</sub>
+- [看过群体](https://t.me/airingchannel/1329) <sub>05.29</sub>
+- [Claude Opus 4.8 正式发布：性能提升且快速模式降价 66%Anthropic...](https://t.me/airingchannel/1328) <sub>05.29</sub>
 <!-- CHANNEL_END -->
 
 <div align="right"><a href="https://ursb.me">→ ursb.me</a></div>
