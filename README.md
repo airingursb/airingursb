@@ -21,7 +21,7 @@ AI therapeutic writing for iOS. Combines CBT, DBT & ACT with AI-guided prompts, 
 ### Latest Posts
 
 <!-- POSTS_START -->
-- [Weekly #35: Vibe Coding Weekends with Professor Claude](https://ursb.me/en/posts/weekly-35/) <sub>2026.05</sub> ![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg?v=3)
+- [Weekly #35: Vibe Coding Weekends with Professor Claude](https://ursb.me/en/posts/weekly-35/) <sub>2026.05</sub>
 - [Weekly #34: The Joy of Making Things](https://ursb.me/en/posts/weekly-34/) <sub>2026.04</sub>
 - [2025: A Brand New Journey](https://ursb.me/en/posts/summary-2025/) <sub>2026.02</sub>
 <!-- POSTS_END -->
@@ -29,9 +29,9 @@ AI therapeutic writing for iOS. Combines CBT, DBT & ACT with AI-guided prompts, 
 ### Latest Notes
 
 <!-- NOTES_START -->
-- [The Life of an LLM Inference — A Prompt's 28 Stops Inside llama.cpp](https://ursb.me/immersive/llm-inference-life/) <sub>2026.05</sub> ![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg?v=3)
-- [The Life of a Stylesheet — Inside Chromium's CSS Engine](https://ursb.me/immersive/css-engine/) <sub>2026.05</sub> ![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg?v=3)
-- [The Life of a TLS Handshake — TLS 1.3 Protocol in Full](https://ursb.me/immersive/tls-handshake/) <sub>2026.05</sub> ![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg?v=3)
+- [The Life of an LLM Inference — A Prompt's 28 Stops Inside llama.cpp](https://ursb.me/immersive/llm-inference-life/) <sub>2026.05</sub>
+- [The Life of a Stylesheet — Inside Chromium's CSS Engine](https://ursb.me/immersive/css-engine/) <sub>2026.05</sub>
+- [The Life of a TLS Handshake — TLS 1.3 Protocol in Full](https://ursb.me/immersive/tls-handshake/) <sub>2026.05</sub>
 <!-- NOTES_END -->
 
 ### Channel
@@ -40,7 +40,6 @@ AI therapeutic writing for iOS. Combines CBT, DBT & ACT with AI-guided prompts, 
 
 <!-- CHANNEL_START -->
 - [看过群体](https://t.me/airingchannel/1329) <sub>05.29</sub>
-- [Claude Opus 4.8 正式发布：性能提升且快速模式降价 66%Anthropic...](https://t.me/airingchannel/1328) <sub>05.29</sub>
 <!-- CHANNEL_END -->
 
 <div align="right"><a href="https://ursb.me">→ ursb.me</a></div>
