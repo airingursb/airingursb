@@ -21,9 +21,9 @@ AI therapeutic writing for iOS. Combines CBT, DBT & ACT with AI-guided prompts, 
 ### Latest Posts
 
 <!-- POSTS_START -->
+- [After AI Takes Everything](https://ursb.me/en/posts/after-ai-takes-everything/) <sub>2026.06</sub> ![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg?v=3)
 - [Weekly #35: Vibe Coding Weekends with Professor Claude](https://ursb.me/en/posts/weekly-35/) <sub>2026.05</sub>
 - [Weekly #34: The Joy of Making Things](https://ursb.me/en/posts/weekly-34/) <sub>2026.04</sub>
-- [2025: A Brand New Journey](https://ursb.me/en/posts/summary-2025/) <sub>2026.02</sub>
 <!-- POSTS_END -->
 
 ### Latest Notes
@@ -39,7 +39,8 @@ AI therapeutic writing for iOS. Combines CBT, DBT & ACT with AI-guided prompts, 
 [![Telegram](https://img.shields.io/badge/Subscribe_on_Telegram-@airingchannel-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/airingchannel)
 
 <!-- CHANNEL_START -->
-- [看过群体](https://t.me/airingchannel/1329) <sub>05.29</sub>
+- [看过铁拳教育](https://t.me/airingchannel/1340) <sub>06.14</sub>
+- [因美政府发函限制，Anthropic 已关闭两款 Mythos 模型对所有客户的访问美国政...](https://t.me/airingchannel/1338) <sub>06.13</sub>
 <!-- CHANNEL_END -->
 
 <div align="right"><a href="https://ursb.me">→ ursb.me</a></div>
