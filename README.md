@@ -39,8 +39,9 @@ AI therapeutic writing for iOS. Combines CBT, DBT & ACT with AI-guided prompts, 
 [![Telegram](https://img.shields.io/badge/Subscribe_on_Telegram-@airingchannel-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/airingchannel)
 
 <!-- CHANNEL_START -->
-- [看过铁拳教育](https://t.me/airingchannel/1340) <sub>06.14</sub>
-- [因美政府发函限制，Anthropic 已关闭两款 Mythos 模型对所有客户的访问美国政...](https://t.me/airingchannel/1338) <sub>06.13</sub>
+- [💬 微信灰度测试原生 AI 助手“小微”微信正在小范围灰度测试原生 AI 助手“小微”。用...](https://t.me/airingchannel/1343) <sub>06.20</sub>
+- [HTTP 拟新增 QUERY 方法：带请求体的安全查询IETF HTTP 工作组正在制定一...](https://t.me/airingchannel/1342) <sub>06.20</sub>
+- [个人网站 380 多号人同时在线按小时峰值 UV 3K+​查了下，原来是周末的文章在 HN...](https://t.me/airingchannel/1341) <sub>06.17</sub>
 <!-- CHANNEL_END -->
 
 <div align="right"><a href="https://ursb.me">→ ursb.me</a></div>
