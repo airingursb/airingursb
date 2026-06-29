@@ -21,7 +21,7 @@ AI therapeutic writing for iOS. Combines CBT, DBT & ACT with AI-guided prompts, 
 ### Latest Posts
 
 <!-- POSTS_START -->
-- [After AI Takes Everything](https://ursb.me/en/posts/after-ai-takes-everything/) <sub>2026.06</sub> ![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg?v=3)
+- [After AI Takes Everything](https://ursb.me/en/posts/after-ai-takes-everything/) <sub>2026.06</sub>
 - [Weekly #35: Vibe Coding Weekends with Professor Claude](https://ursb.me/en/posts/weekly-35/) <sub>2026.05</sub>
 - [Weekly #34: The Joy of Making Things](https://ursb.me/en/posts/weekly-34/) <sub>2026.04</sub>
 <!-- POSTS_END -->
@@ -39,9 +39,9 @@ AI therapeutic writing for iOS. Combines CBT, DBT & ACT with AI-guided prompts, 
 [![Telegram](https://img.shields.io/badge/Subscribe_on_Telegram-@airingchannel-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/airingchannel)
 
 <!-- CHANNEL_START -->
+- [看过抓娃娃](https://t.me/airingchannel/1345) <sub>06.22</sub>
 - [💬 微信灰度测试原生 AI 助手“小微”微信正在小范围灰度测试原生 AI 助手“小微”。用...](https://t.me/airingchannel/1343) <sub>06.20</sub>
 - [HTTP 拟新增 QUERY 方法：带请求体的安全查询IETF HTTP 工作组正在制定一...](https://t.me/airingchannel/1342) <sub>06.20</sub>
-- [个人网站 380 多号人同时在线按小时峰值 UV 3K+​查了下，原来是周末的文章在 HN...](https://t.me/airingchannel/1341) <sub>06.17</sub>
 <!-- CHANNEL_END -->
 
 <div align="right"><a href="https://ursb.me">→ ursb.me</a></div>
