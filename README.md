@@ -39,9 +39,9 @@ AI therapeutic writing for iOS. Combines CBT, DBT & ACT with AI-guided prompts, 
 [![Telegram](https://img.shields.io/badge/Subscribe_on_Telegram-@airingchannel-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/airingchannel)
 
 <!-- CHANNEL_START -->
+- [🌙 Kimi 已开始向用户推送 K3 模型，最高支持 1M 上下文。Kimi🌸 在花频道...](https://t.me/airingchannel/1351) <sub>07.16</sub>
 - [又用完一管，这次很节约了，Fable 只用来 plan，够用 2 天。下一个号走起。](https://t.me/airingchannel/1350) <sub>07.05</sub>
 - [今中午刚开的 20x 账号，用了 fable 的 81%，已经很节制了😢](https://t.me/airingchannel/1349) <sub>07.03</sub>
-- [看过我会找到你](https://t.me/airingchannel/1348) <sub>07.02</sub>
 <!-- CHANNEL_END -->
 
 <div align="right"><a href="https://ursb.me">→ ursb.me</a></div>
