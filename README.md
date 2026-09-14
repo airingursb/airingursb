@@ -29,9 +29,9 @@ AI therapeutic writing for iOS. Combines CBT, DBT & ACT with AI-guided prompts, 
 ### Latest Notes
 
 <!-- NOTES_START -->
+- [A day in a bear’s life.](https://ursb.me/en/playbook/living-scenes/) <sub>2026.09</sub> ![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg?v=3)
+- [A gaze that follows you.](https://ursb.me/en/playbook/reading-companion/) <sub>2026.09</sub> ![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg?v=3)
 - [The Life of a User Message Inside Pi Agent — 26 Stations from Enter to JSONL](https://ursb.me/immersive/pi-agent/) <sub>2026.08</sub>
-- [The Life of an LLM Inference — A Prompt's 28 Stops Inside llama.cpp](https://ursb.me/immersive/llm-inference-life/) <sub>2026.05</sub>
-- [The Life of a Stylesheet — Inside Chromium's CSS Engine](https://ursb.me/immersive/css-engine/) <sub>2026.05</sub>
 <!-- NOTES_END -->
 
 ### Channel
