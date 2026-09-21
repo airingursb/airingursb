@@ -21,7 +21,7 @@ AI therapeutic writing for iOS. Combines CBT, DBT & ACT with AI-guided prompts, 
 ### Latest Posts
 
 <!-- POSTS_START -->
-- [Monthly #36: A Beginning](https://ursb.me/en/posts/weekly-36/) <sub>2026.09</sub> ![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg?v=3)
+- [Monthly #36: A Beginning](https://ursb.me/en/posts/weekly-36/) <sub>2026.09</sub>
 - [After AI Takes Everything](https://ursb.me/en/posts/after-ai-takes-everything/) <sub>2026.06</sub>
 - [Weekly #35: Vibe Coding Weekends with Professor Claude](https://ursb.me/en/posts/weekly-35/) <sub>2026.05</sub>
 <!-- POSTS_END -->
@@ -39,9 +39,9 @@ AI therapeutic writing for iOS. Combines CBT, DBT & ACT with AI-guided prompts, 
 [![Telegram](https://img.shields.io/badge/Subscribe_on_Telegram-@airingchannel-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/airingchannel)
 
 <!-- CHANNEL_START -->
-- [月刊（第36期）：伊始 | Airing](https://t.me/airingchannel/1354) <sub>09.06</sub>
-- [看过奥德赛](https://t.me/airingchannel/1353) <sub>08.09</sub>
-- [看过痴迷](https://t.me/airingchannel/1352) <sub>08.01</sub>
+- [看过欢迎来龙餐馆](https://t.me/airingchannel/1357) <sub>09.19</sub>
+- [看过现在不是出轨的问题](https://t.me/airingchannel/1356) <sub>09.19</sub>
+- [看过聪明镇](https://t.me/airingchannel/1355) <sub>09.19</sub>
 <!-- CHANNEL_END -->
 
 <div align="right"><a href="https://ursb.me">→ ursb.me</a></div>
