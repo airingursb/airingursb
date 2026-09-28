@@ -29,9 +29,9 @@ AI therapeutic writing for iOS. Combines CBT, DBT & ACT with AI-guided prompts, 
 ### Latest Notes
 
 <!-- NOTES_START -->
-- [A day in a bear’s life.](https://ursb.me/en/playbook/living-scenes/) <sub>2026.09</sub> ![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg?v=3)
-- [A gaze that follows you.](https://ursb.me/en/playbook/reading-companion/) <sub>2026.09</sub> ![NEW](https://raw.githubusercontent.com/airingursb/airingursb/master/assets/new-badge.svg?v=3)
-- [The Life of a User Message Inside Pi Agent — 26 Stations from Enter to JSONL](https://ursb.me/immersive/pi-agent/) <sub>2026.08</sub>
+- [A day in a bear’s life.](https://ursb.me/en/playbook/living-scenes/) <sub>2026.09</sub>
+- [A gaze that follows you.](https://ursb.me/en/playbook/reading-companion/) <sub>2026.09</sub>
+- [The Life of a User Message Inside Pi Agent — 26 Stations from Enter to JSONL](https://ursb.me/en/immersive/pi-agent/) <sub>2026.08</sub>
 <!-- NOTES_END -->
 
 ### Channel
@@ -39,9 +39,9 @@ AI therapeutic writing for iOS. Combines CBT, DBT & ACT with AI-guided prompts, 
 [![Telegram](https://img.shields.io/badge/Subscribe_on_Telegram-@airingchannel-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/airingchannel)
 
 <!-- CHANNEL_START -->
+- [👋 本周上线第一期《AI 趋势周刊》。这档周刊是我新开的一个坑，每周总结 2-3 个当前的...](https://t.me/airingchannel/1358) <sub>09.27</sub>
 - [看过欢迎来龙餐馆](https://t.me/airingchannel/1357) <sub>09.19</sub>
 - [看过现在不是出轨的问题](https://t.me/airingchannel/1356) <sub>09.19</sub>
-- [看过聪明镇](https://t.me/airingchannel/1355) <sub>09.19</sub>
 <!-- CHANNEL_END -->
 
 <div align="right"><a href="https://ursb.me">→ ursb.me</a></div>
