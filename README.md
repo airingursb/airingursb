@@ -39,9 +39,9 @@ AI therapeutic writing for iOS. Combines CBT, DBT & ACT with AI-guided prompts, 
 [![Telegram](https://img.shields.io/badge/Subscribe_on_Telegram-@airingchannel-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/airingchannel)
 
 <!-- CHANNEL_START -->
+- [看过给阿嬷的情书](https://t.me/airingchannel/1361) <sub>10.03</sub>
+- [👋 博客新开了一个栏目，叫《回声》。把读者的来信和我的回信，按主题整理成一期期通信期刊。这...](https://t.me/airingchannel/1360) <sub>09.30</sub>
 - [👋 本周上线第一期《AI 趋势周刊》。这档周刊是我新开的一个坑，每周总结 2-3 个当前的...](https://t.me/airingchannel/1358) <sub>09.27</sub>
-- [看过欢迎来龙餐馆](https://t.me/airingchannel/1357) <sub>09.19</sub>
-- [看过现在不是出轨的问题](https://t.me/airingchannel/1356) <sub>09.19</sub>
 <!-- CHANNEL_END -->
 
 <div align="right"><a href="https://ursb.me">→ ursb.me</a></div>
